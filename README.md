@@ -1,6 +1,6 @@
 # CRIME-REPORTING_SYSTEM
 
-Collaboration with [Cyberspire](https://github.com/Cyberspire)
+Collaboration with [CyberSpire](https://github.com/CyberSpire)
 
 ### The technologies used in this project are:
 - *Front-end* : HTML,CSS,JS,Bootstrap,Jquery
