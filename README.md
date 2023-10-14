@@ -3,8 +3,8 @@
 Collaboration with [CyberSpire](https://github.com/CyberSpire)
 
 ### The technologies used in this project are:
-- *Front-end* : HTML,CSS,JS,Bootstrap,Jquery
-- *Back-end* : PHP,MYSQL,Apache
+-  **Front-end** : HTML,CSS,JS,Bootstrap,Jquery
+-  **Back-end** : PHP,MYSQL,Apache
 
 
 ### Modules of CRIME-REPORTING_SYSTEM:
